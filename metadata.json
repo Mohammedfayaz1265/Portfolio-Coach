@@ -1,0 +1,7 @@
+{
+  "name": "Portfolia - AI Student Portfolio Builder",
+  "description": "Create professional, honest student and graduate portfolios without coding or wondering what to include. Featuring smart guidance, AI writing assistance, and live responsive templates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
